@@ -1,0 +1,9 @@
+streamlit
+ibm-watson-machine-learning
+requests
+matplotlib
+pandas
+numpy
+python-dotenv
+scikit-learn
+plotly
